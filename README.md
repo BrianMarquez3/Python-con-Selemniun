@@ -12,33 +12,39 @@ _Selenium fue originalmente desarrollado por Jason Huggins en 2004 y pronto se u
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Instalar Previamente Python desde la página Oficial_
+* [Instalador](https://www.python.org/) - Python
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Verifica la versión de Python_
 
 ```
-hasta finalizar
+python --version
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Instalacion de Selenium_
 
-## Ejecutando las pruebas ⚙️
+```
+pip install selenium
+```
+
+_Actualiza el  PIP de Python_
+
+```
+python -m pip install --upgrade pip
+```
+
+## Drivers de Navegadores ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
+* [Google Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) - Driver de Chrome
+* [Mozila Firefox](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Driver de Firefox
+
 ### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+_Descarga el Driver para el navedador que se vaya a usar_
 
-```
-Da un ejemplo
-```
+
 
 ### Y las pruebas de estilo de codificación ⌨️
 
