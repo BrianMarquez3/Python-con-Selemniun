@@ -1,14 +1,14 @@
 # Python con Selenium
 
-Pruebas de Optimación
+_Pruebas de Optimación_
 
 ## Descripción 🔥
 
-Selenium es un entorno de pruebas de software para aplicaciones basadas en la web. Selenium provee una herramienta de grabar/reproducir para crear pruebas sin usar un lenguaje de scripting para pruebas (Selenium IDE). Incluye también un lenguaje específico de dominio para pruebas (Selanese) para escribir pruebas en un amplio número de lenguajes de programación populares incluyendo Java, C#, Ruby, Groovy, Perl, Php y Python. Las pruebas pueden ejecutarse entonces usando la mayoría de los navegadores web modernos en diferentes sistemas operativos como Windows, Linux y OSX.
+_Selenium es un entorno de pruebas de software para aplicaciones basadas en la web. Selenium provee una herramienta de grabar/reproducir para crear pruebas sin usar un lenguaje de scripting para pruebas (Selenium IDE). Incluye también un lenguaje específico de dominio para pruebas (Selanese) para escribir pruebas en un amplio número de lenguajes de programación populares incluyendo Java, C#, Ruby, Groovy, Perl, Php y Python. Las pruebas pueden ejecutarse entonces usando la mayoría de los navegadores web modernos en diferentes sistemas operativos como Windows, Linux y OSX._
 
 ### Historia 📋
 
-Selenium fue originalmente desarrollado por Jason Huggins en 2004 y pronto se unieron al esfuerzo otras personas especialistas en pruebas y programación. Es un software de código abierto bajo la licencia apache 2.0 que puede ser descargada y usada sin cargo. El nombre proviene de una broma hecha por Huggins burlándose de un competidor llamado Mercury (mercurio) diciendo que el envenenamiento por mercurio puede ser curado tomando complementos de Selenio. Los participantes tomaron el nombre y siguieron con él. Existen otros proyectos que se desarrollan alrededor de Selenium como Selenium Grid, para probar concurrencia de múltiples pruebas concurrentes de clientes remotos o locales, así como Flash Selenium para probar programas escritos en Adobe Flex o Selenium Silverlight.
+_Selenium fue originalmente desarrollado por Jason Huggins en 2004 y pronto se unieron al esfuerzo otras personas especialistas en pruebas y programación. Es un software de código abierto bajo la licencia apache 2.0 que puede ser descargada y usada sin cargo. El nombre proviene de una broma hecha por Huggins burlándose de un competidor llamado Mercury (mercurio) diciendo que el envenenamiento por mercurio puede ser curado tomando complementos de Selenio. Los participantes tomaron el nombre y siguieron con él. Existen otros proyectos que se desarrollan alrededor de Selenium como Selenium Grid, para probar concurrencia de múltiples pruebas concurrentes de clientes remotos o locales, así como Flash Selenium para probar programas escritos en Adobe Flex o Selenium Silverlight._
 
 ### Instalación 🔧
 
