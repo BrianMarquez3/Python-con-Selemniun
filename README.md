@@ -40,6 +40,11 @@ _Explica como ejecutar las pruebas automatizadas para este sistema_
 
 * 📦[Google Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) - Driver de Chrome
 * 📦[Mozila Firefox](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Driver de Firefox
+* 📦[Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Driver de Microsoft Edge
+* 📦[Safari](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Driver de Safari
+* 📦[Opera](https://github.com/operasoftware/operachromiumdriver/releases) - Driver de Opera
+
+
 
 ## Ramas 👾
 
