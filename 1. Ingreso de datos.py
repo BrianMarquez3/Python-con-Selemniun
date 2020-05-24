@@ -1,4 +1,5 @@
 #Python con Selenium | Ingresar datos de correo
+#Automatizacion de secuencia de pasos
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -17,5 +18,5 @@ time.sleep(3)
 clave = driver.find_element_by_name("password")
 clave.send_keys("tucontraseña")
 clave.send_Keys(Keys.ENTER)
+
 #Ingresar A Gmail Automatiocamente
-#
