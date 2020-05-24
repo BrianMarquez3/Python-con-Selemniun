@@ -36,7 +36,7 @@ python -m pip install --upgrade pip
 
 ## Drivers de Navegadores ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Links de descarga de los Principales Navegadores_
 
 * 📦[Google Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) - Driver de Chrome
 * 📦[Mozila Firefox](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Driver de Firefox
