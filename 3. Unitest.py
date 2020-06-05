@@ -16,7 +16,7 @@ class usando_unittest(unittest.TestCase):
         #Buscar un elemento
         elemento=driver.find_element_by_name("q")
         elemento.send_keys("selenium")
-        elemento.send_keys(Keys.RETURN)
+        elemento.send_keys(Keys.RETURN)#Tecla Enter
         time.sleep(5)
         assert "No se encontro el elemento" not in driver.page_source
 
