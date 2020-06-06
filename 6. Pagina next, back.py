@@ -20,7 +20,7 @@ class usando_unittest(unittest.TestCase):
         time.sleep(3)
         driver.get("https://www.youtube.com")
         time.sleep(3)
-        driver.back()
+        driver.back()#atras
         time.sleep(3)
         driver.back()#gmail.com
         time.sleep(3)
