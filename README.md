@@ -34,6 +34,12 @@ _Actualiza el  PIP de Python_
 python -m pip install --upgrade pip
 ```
 
+_Instalacion de CV2_
+
+```
+pip install opencv-python
+```
+
 ## Drivers de Navegadores ⚙️
 
 _Links de descarga de los Principales Navegadores_
