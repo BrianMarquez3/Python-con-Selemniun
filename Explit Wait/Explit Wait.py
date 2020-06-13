@@ -1,4 +1,5 @@
 #Expliat Wait
+#Explit
 
 import unittest
 from selenium import webdriver # se Improta libreria
@@ -7,7 +8,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 class usando_unittest(unittest.TestCase):
-
     def setUp(self):
         self.driver = webdriver.Chrome(executable_path=r"D:\Automatizacion\driverchrome\chromedriver.exe")
 
