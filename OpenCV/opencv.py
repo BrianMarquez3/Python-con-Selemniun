@@ -1,4 +1,5 @@
 #Compaciones
+#Compaciones
 
 import unittest
 from selenium import webdriver
@@ -15,15 +16,15 @@ class usando_unittest(unittest.TestCase):
     def test_usando_opencv(self):
         driver = self.driver
         driver.get("https://www.google.com")
-        driver.save_screenshot('img2.PNG') #hacer recorte
+        driver.save_screenshot('img2.png') #hacer recorte
         time.sleep(3)
 
     def test_comparando_imagenes(self):
-        img1= cv2.imread('img1.PNG')
-        img2= cv2.imread('img2.PNG')
+        img1= cv2.imread('img1.png')
+        img2= cv2.imread('img2.png')
 
         diferencia = cv2.absdiff(img1, img2) #hacer una camparacion de imagenes
-        imagen_gris = cv2.cvtColor(diferencia, cv2.COLOR_BG2GRAY)
+        imagen_gris = cv2.ctvColor(diferencia, cv2.COLOR_BG2GRAY)
         contours = cv2.findContours(imagen_gris,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
 
         for c in contours:
@@ -36,7 +37,6 @@ class usando_unittest(unittest.TestCase):
             cv2.imshow("Imagen2",img2)
             cv2.imshow("Diferencias detenctadas", diferencia)
             teclado = cv2.waitKey(5) & 0xFF
-
             if teclado == 27:
                 break
         cv2.destroyAllWindows()
