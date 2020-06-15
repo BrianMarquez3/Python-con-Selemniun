@@ -1,5 +1,5 @@
 #Compaciones
-#Compaciones
+
 
 import unittest
 from selenium import webdriver
@@ -44,6 +44,7 @@ class usando_unittest(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()     
 
+#Error en en el __main__
 
 
 
