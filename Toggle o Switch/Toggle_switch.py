@@ -1,4 +1,4 @@
-# Boton On/Off
+# Boton ON/Off
 
 import unittest
 from selenium import webdriver
