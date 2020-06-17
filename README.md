@@ -57,8 +57,8 @@ _Links de descarga de los Principales Navegadores_
 
 Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
 
-## Autores ✒️
+## Autor ✒️
 
-* **Brian Marquez** - *Documentación* - [Brian Marquez]()
+* **Nicolas Alvarez** - *Documentación* - [https://github.com/ksiel99/Python-con-Selenium]()
 
 ![python](./images/selenium3.jpg)
