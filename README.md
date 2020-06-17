@@ -59,6 +59,6 @@ Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/setti
 
 ## Autores ✒️
 
-* **Brian Marquez** - *Documentación* - [Brian Marquez]()
+* **Nicolas Alvarez** - *Documentación* - [Brian Marquez]()
 
 ![python](./images/selenium3.jpg)
