@@ -39,6 +39,13 @@ _Instalacion de CV2_
 ```
 pip install opencv-python
 ```
+
+_Creacion de un .exe_
+
+```
+pip install pyinstaller
+```
+
 <img src=https://raw.githubusercontent.com/BrianMarquez3/Python-con-Selenium/master/images/cv2.PNG>
 
 ## Drivers de Navegadores ⚙️
