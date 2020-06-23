@@ -50,7 +50,7 @@ _Links de descarga de los Principales Navegadores_
 * 📦 [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Driver de Microsoft Edge
 * 📦 [Safari](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Driver de Safari
 * 📦 [Opera Browser](https://github.com/operasoftware/operachromiumdriver/releases) - Driver de Opera
-* 📦 [Internet Explorer](* 📦 [Brave Browser](http://mundrisoft.com/tech-bytes/install-selenium-webdriver-windows/) - Driver de IE
+* 📦 [Internet Explorer](http://mundrisoft.com/tech-bytes/install-selenium-webdriver-windows/) - Driver de IE
 * 📦 [Brave Browser](http://mundrisoft.com/tech-bytes/install-selenium-webdriver-windows/) - Info Driver
 
 
