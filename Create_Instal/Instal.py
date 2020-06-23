@@ -9,3 +9,4 @@ driver = webdriver.Ie(executable_path=r"D:\Automatizacion\IEDriverServer.exe")
 driver.get("https://www.google.com")
 time.sleep(3)
 driver.close()
+
