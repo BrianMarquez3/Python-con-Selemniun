@@ -63,6 +63,10 @@ _Links de descarga de los Principales Navegadores_
 * 📦 [Internet Explorer](https://www.selenium.dev/downloads/) - Driver de IE
 * 📦 [Brave Browser](http://mundrisoft.com/tech-bytes/install-selenium-webdriver-windows/) - Info Driver
 
+## Path
+
+Agregar la dirección del Driver al Path para mejorar el llamado del ejecutable
+![python](./images/path.PNG)
 
 ## Xpath - Selenium
 
