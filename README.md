@@ -63,7 +63,22 @@ _Links de descarga de los Principales Navegadores_
 * 📦 [Internet Explorer](https://www.selenium.dev/downloads/) - Driver de IE
 * 📦 [Brave Browser](http://mundrisoft.com/tech-bytes/install-selenium-webdriver-windows/) - Info Driver
 
+## Path
 
+Agregar la dirección del Driver al Path para mejorar el llamado del ejecutable
+![python](./images/path.PNG)
+
+## Xpath - Selenium
+
+XPath se define como una ruta XML . Es una sintaxis o lenguaje para encontrar cualquier elemento en la página web utilizando la expresión de ruta XML . XPath se usa para encontrar la ubicación de cualquier elemento en una página web utilizando la estructura HTML DOM.
+
+### Sintaxis para XPath:
+
+XPath contiene la ruta del elemento situado en la página web. La sintaxis estándar para crear XPath es.
+
+```
+Xpath = // tagname [@ attribute = 'value']
+```
 
 ## Ramas 👾
 
