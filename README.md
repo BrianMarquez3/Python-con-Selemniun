@@ -53,8 +53,9 @@ pip install pyinstaller
 _Listado de Modulos instalados en Python_
 
 ```
-pip install 
+pip list 
 ```
+<img src=https://raw.githubusercontent.com/BrianMarquez3/Python-con-Selenium/master/images/list.PNG>
 
 _Instalar Pytesseract_
 
