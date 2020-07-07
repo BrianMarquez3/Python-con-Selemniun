@@ -50,6 +50,23 @@ pip install pyinstaller
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/Python-con-Selenium/master/images/exe.PNG>
 
+_Listado de Modulos instalados en Python_
+
+```
+pip install 
+```
+
+_Instalar Pytesseract_
+
+```
+pip install Pytesseract
+```
+
+_Desinstalarr Modulos_
+
+```
+pip uninstall nombreModulo
+```
 
 ## Drivers de Navegadores ⚙️
 
