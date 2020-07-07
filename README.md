@@ -55,7 +55,7 @@ _Listado de Modulos instalados en Python_
 ```
 pip list 
 ```
-<img src=https://raw.githubusercontent.com/BrianMarquez3/Python-con-Selenium/master/images/list.PNG>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/Python-con-Selenium/master/images/list.png>
 
 _Instalar Pytesseract_
 
@@ -63,7 +63,7 @@ _Instalar Pytesseract_
 pip install Pytesseract
 ```
 
-_Desinstalarr Modulos_
+_Desinstalar Modulos_
 
 ```
 pip uninstall nombreModulo
