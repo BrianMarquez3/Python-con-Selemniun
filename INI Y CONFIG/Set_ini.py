@@ -6,5 +6,5 @@ configuracion = configparser.ConfigParser()
 configuracion['General'] = {'chrome' : 'D:\Automatizacion\driverchrome\chromedriver.exe'}
 configuracion['Paginas'] = {'page': 'https://www.google.com'}
 
-with open('configuracion.ini', 'w') as archivoconfi():
+with open('INI Y CONFIG\configuracion.ini', 'w') as archivoconfig:
     configuracion.write(archivoconfig)
