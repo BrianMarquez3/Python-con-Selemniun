@@ -69,6 +69,13 @@ _Desinstalar Modulos_
 pip uninstall nombreModulo
 ```
 
+_Html-TestRunner_
+
+```
+pip install html-testRunner
+```
+
+
 ## Drivers de Navegadores ⚙️
 
 _Links de descarga de los Principales Navegadores_
