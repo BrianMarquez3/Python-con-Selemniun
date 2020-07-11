@@ -19,6 +19,11 @@ class suite(unittest.TestCase):
         print(self.driver.current_window_handle)
         time.sleep(3)
 
+        handles=self.driver.window_handles
+        for handle in handles:
+            self.driver.switch_to_window(handle)
+            print(self.driver.title)
+
     def tearDown(self):#Limpiesa
         self.driver.quit()
 
