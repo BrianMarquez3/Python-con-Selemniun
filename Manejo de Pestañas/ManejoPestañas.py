@@ -1,4 +1,4 @@
-# Asser Not Equal
+# AsserT Not Equal
 # Abir en una nueva pestaña
 
 import unittest
