@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Automatizado</title>
+</head>
+<body>
+
+    <script lenguaje = JavaScript>
+    function limpiar()
+    {
+        document.getElementById("login").value="";
+        document.getElementById("cont").value="";
+    }
+
+    </script>
+
+    <form>
+    <p> Usuario: <input type="text" name=login id="login">
+    <p> Contraseña: <input type="password" name=password id="cont">
+    <input onclick=limpiar() type="button" value="Acceder" id="acce">
+    </form>
+
+</body>
+</html>
