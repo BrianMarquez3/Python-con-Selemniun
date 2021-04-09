@@ -1,7 +1,39 @@
-<h2 align="center">Python con Selenium&nbsp;:🖥:&nbsp;</h2>
+<h2 align="center">Python with Selenium</h2>
+
+<p align="center">
+  
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/LPython-with-Selenium?color=yellow">
+  </a>
+  <a href="https://github.com/BrianMarquez3/Python-with-Selenium/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-with-Selenium.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/BrianMarquez3/Python-with-Selenium/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-with-Selenium.svg?style=flat" alt="Forks">
+  </a>
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-with-Selenium?color=red&label=Version&logo=selenium">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-with-Selenium">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-with-Selenium/total?color=green">
+  </a>
+  
+   </a>
+   <a href="https://github.com/BrianMarquez3/Python-with-Selenium/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-with-Selenium?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-with-Selenium?style=for-the-badge">
+  
+</p>
 
 ![python](./images/selenium1.png)
-_Pruebas de Optimación_
+
 
 ## Descripción 🔥
 
